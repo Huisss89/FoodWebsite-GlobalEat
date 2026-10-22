@@ -169,7 +169,7 @@ a{
 /* About Us */
 .about-pic {
   height: 30vh; 
-  background-image: url("FoodWebsite-GlobalEat/IMAGES/whoAreWe.jpg");
+  background-image: url("../IMAGES/whoAreWe.jpg");
   background-size: cover; 
   background-position: top center; 
   background-repeat: no-repeat; 
