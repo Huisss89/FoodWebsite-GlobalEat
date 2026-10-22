@@ -1,3 +1,7 @@
+# Cuisine Recommendation Website - GlobalEat 🌎
+
+Website Link: https://foodwebsite-globaleat.vercel.app/
+
 GlobalEat is a passionate community of food lovers, culinary experts, and cultural enthusiasts dedicated to exploring and sharing the diverse flavors of the world. Founded in 2024, our platform brings together recipes, stories, and culinary traditions from every corner of the globe, making international cuisine accessible to food lovers everywhere.
 
 <img width="1894" height="889" alt="Screenshot 2026-02-03 003709" src="https://github.com/user-attachments/assets/a6817ef0-3647-43a2-9d04-b7f550cba2d8" />
